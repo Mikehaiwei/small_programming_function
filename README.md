@@ -1,2 +1,2 @@
 # small_programming_function
-一些实用的编程小组件
+一些实用的编程函数
